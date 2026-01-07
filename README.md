@@ -1,2 +1,1 @@
-# youthwise-java-dashboard
-Java Swing dashboard application with interactive visualizations to track academic, health, and sports data for multiple users.
+# INFO5100_Monday_Group47_Final_Project
